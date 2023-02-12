@@ -1,0 +1,38 @@
+.about-me-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+}
+
+.ilustracion {
+    height: 600px;
+    width: 600px;
+}
+
+.descripcion-titulo {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 35px; 
+}
+
+.sombreado {
+    height: 450px;
+    opacity: calc(0.6);
+    position: absolute;
+    bottom: 225px;
+    right: 5px;
+}
+
+.descripcion  {
+    font-size: 18px;
+    text-align: justify;
+    text-transform: lowercase;
+    text-align: right; 
+    position: relative;
+}
+
+.mayuscula {
+    text-transform: uppercase;
+}

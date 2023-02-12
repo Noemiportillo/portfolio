@@ -1,0 +1,47 @@
+.container-principal  {
+    background-color: #eceff1;
+    height: 700px;   
+    width: 100%; 
+    box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.19), 10px 0px 6px 1px rgba(0, 0, 0, 0.05);
+}
+
+.titulo {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.titulo-container {
+    font-size: 30px;
+    text-align: center;
+    padding: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.titulo-tecnologia {
+    font-family: 'Days One', sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container-tecnologias{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-tecnologias .tecnologias {
+  width: 15%;
+  margin-bottom: 20px 20px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+
+ .icono-tecnologia {
+    height: 40px;
+    width: 40px;
+    padding: 25px;    
+}

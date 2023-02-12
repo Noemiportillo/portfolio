@@ -1,0 +1,16 @@
+.container-info {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;    
+    text-align: center;
+    padding-top: 20px;
+    background-color: #80cbc4;
+    color: white;
+    font-weight: bold;
+}
+
+.iconos {
+    height: 50px;
+    width: 50px;
+    padding: 25px;   
+}
